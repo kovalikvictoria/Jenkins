@@ -1,0 +1,13 @@
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Jenkins.dll
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Jenkins.pdb
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VIKA\source\repos\Jenkins\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VIKA\source\repos\Jenkins\obj\Debug\Jenkins.csprojAssemblyReference.cache
+C:\Users\VIKA\source\repos\Jenkins\obj\Debug\Jenkins.csproj.CopyComplete
+C:\Users\VIKA\source\repos\Jenkins\obj\Debug\Jenkins.dll
+C:\Users\VIKA\source\repos\Jenkins\obj\Debug\Jenkins.pdb
